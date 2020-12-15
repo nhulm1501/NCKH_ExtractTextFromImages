@@ -17,12 +17,10 @@ PyCharm, Anacoda
 => biết chạy debug , view show parameter!!!
 
 4. Dataset mẫu
-Mỗi thành viên tạo bộ ảnh mẫu:
-- 1 kiểu thì chụp 10 tấm 
-- 1 kiểu khẩu trang  (khẩu trang màu xanh, trắng, xắm, khẩu tra vải,...)
-- 1 kiểu ko khẩu trang.
+Mỗi thành viên tạo bộ ảnh mẫu thu thập IDCard sinh viên trong trường hoặc ngoài trường.
 
-5. Update code
+5. Update code: 
+- Search từ khóa: text detection from ID Card python
 - Chỉnh link: sử dụng tương đối. (ko xài tuyệt)
 - Cách điều chỉnh các link:
 - Quy ước đường dẫn tương đối:  /	;  ./ ;  ../
