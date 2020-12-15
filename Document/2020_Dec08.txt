@@ -1,0 +1,34 @@
+@Dec08
+1. Biết cách sử dụng file Requirement.txt
+- link https://intellipaat.com/community/31672/how-to-use-requirements-txt-to-install-all-dependencies-in-a-python-project
+- Đọc file Requirement => chạy cho project (pip install)
+pip install requirements.txt 
+
+- Đóng gói file Requirement: project => Requirement.txt
+pip freeze > requirements.txt
+
+2. JOin group Machine Learning
+https://www.facebook.com/groups/machinelearningcoban/
+Tìm tài liệu đọc về: Keras, Tensorflow, MobileNetV2
+CNN?  ([Conv, Pool, ... ],FullConnect)
+
+3. IDE Python
+PyCharm, Anacoda
+=> biết chạy debug , view show parameter!!!
+
+4. Dataset mẫu
+Mỗi thành viên tạo bộ ảnh mẫu:
+- 1 kiểu thì chụp 10 tấm 
+- 1 kiểu khẩu trang  (khẩu trang màu xanh, trắng, xắm, khẩu tra vải,...)
+- 1 kiểu ko khẩu trang.
+
+5. Update code
+- Chỉnh link: sử dụng tương đối. (ko xài tuyệt)
+- Cách điều chỉnh các link:
+- Quy ước đường dẫn tương đối:  /	;  ./ ;  ../
+
+[Traning / Tesing] / Validation
+
+
+
+
